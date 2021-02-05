@@ -1,0 +1,2 @@
+# my-program
+Simple program
