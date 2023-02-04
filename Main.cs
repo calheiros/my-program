@@ -1,33 +1,31 @@
 using System;
 
 namespace Hello {
-  class Program {
-    
-    static string MESSAGE = "Welcome to my program!\n";
+
+  class Program {  
+    static string WelcomeMessage = "Welcome to my program!\n";
   
     static void Main(string[] args) {
-      
-      Wellcome();
-      PrintInfo();
-      
-      Console.Write("\nPress ENTER to exit ");
+      Print(WelcomeMessage);
+      Print(GetInfo());
+      Print("\nPress ENTER to exit ");
       Console.ReadLine();
     }
-    static void Wellcome() {
-      char[] chars = MESSAGE.ToCharArray();
-      for ( int i = 0; i < MESSAGE.Length; i++ ) {
+
+    static void Print(string message) {
+      char[] chars = message.ToCharArray();
+      for ( int i = 0; i < message.Length; i++ ) {
         System.Threading.Thread.Sleep(60);
         Console.Write(chars[i]);
       }
     }
-    static void PrintInfo() {
+
+    static string GetInfo() {
       var os = Environment.OSVersion;
-      Console.Write (
+      return
         "\nPlatform: " + os.Platform +
         "\nVersion: " + os.Version + 
-        "\nVersion name: " + os.VersionString + "\n"
-      );
-      
+        "\nVersion name: " + os.VersionString + "\n";
     }
   }
 }
