@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5xlCqTwmeRg1o2hwXUyL8LuBY2Tuo/CYrd+HmFxpetZm9LjUKEn7y2TQNGY0E7fEz/Nr520abv+9EUZJEm1UQ==",
+  "success": true,
+  "projectFilePath": "/home/1rishman/Projects/Windows/my-program/Windows.csproj",
+  "expectedPackageFiles": [
+    "/home/1rishman/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

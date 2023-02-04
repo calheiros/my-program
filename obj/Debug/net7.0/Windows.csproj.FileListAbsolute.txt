@@ -1,0 +1,15 @@
+/home/1rishman/Projects/Windows/my-program/bin/Debug/net7.0/Windows
+/home/1rishman/Projects/Windows/my-program/bin/Debug/net7.0/Windows.deps.json
+/home/1rishman/Projects/Windows/my-program/bin/Debug/net7.0/Windows.runtimeconfig.json
+/home/1rishman/Projects/Windows/my-program/bin/Debug/net7.0/Windows.dll
+/home/1rishman/Projects/Windows/my-program/bin/Debug/net7.0/Windows.pdb
+/home/1rishman/Projects/Windows/my-program/obj/Debug/net7.0/Windows.csproj.AssemblyReference.cache
+/home/1rishman/Projects/Windows/my-program/obj/Debug/net7.0/Windows.GeneratedMSBuildEditorConfig.editorconfig
+/home/1rishman/Projects/Windows/my-program/obj/Debug/net7.0/Windows.AssemblyInfoInputs.cache
+/home/1rishman/Projects/Windows/my-program/obj/Debug/net7.0/Windows.AssemblyInfo.cs
+/home/1rishman/Projects/Windows/my-program/obj/Debug/net7.0/Windows.csproj.CoreCompileInputs.cache
+/home/1rishman/Projects/Windows/my-program/obj/Debug/net7.0/Windows.dll
+/home/1rishman/Projects/Windows/my-program/obj/Debug/net7.0/refint/Windows.dll
+/home/1rishman/Projects/Windows/my-program/obj/Debug/net7.0/Windows.pdb
+/home/1rishman/Projects/Windows/my-program/obj/Debug/net7.0/Windows.genruntimeconfig.cache
+/home/1rishman/Projects/Windows/my-program/obj/Debug/net7.0/ref/Windows.dll

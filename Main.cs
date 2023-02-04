@@ -6,8 +6,11 @@ namespace Hello {
     static string WelcomeMessage = "Welcome to my program!\n";
   
     static void Main(string[] args) {
+      Console.ForegroundColor = ConsoleColor.Green;
       Print(WelcomeMessage);
       Print(GetInfo());
+
+      Console.ForegroundColor = ConsoleColor.Yellow;
       Print("\nPress ENTER to exit ");
       Console.ReadLine();
     }
